@@ -369,6 +369,10 @@ Phase 6 - SQL Dashboard
 Phase 7 - GitHub / LinkedIn Packaging
 ```
 
+Note
+No local Python environment is required.
+The code is designed to run in Databricks notebooks.
+
 ## Author
 
 Kamil Gün  
